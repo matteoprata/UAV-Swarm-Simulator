@@ -1,0 +1,5 @@
+matplotlib==3.3.3
+Shapely==1.7.1
+numpy==1.19.5
+pygame
+pandas==0.25.1

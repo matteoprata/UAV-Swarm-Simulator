@@ -6,8 +6,8 @@ It requires Python 3 or greater.
 ## Quick Start
 
 ```bash
-git clone https://github.com/uavnetworkslab/uavsimulator
-cd uavsimulator
+git clone https://github.com/uavnetworkslab/uav-swarm-simulation
+cd uav-swarm-simulation
 
 pip install -r requirements.txt
 python -m src.main

@@ -1,4 +1,4 @@
-# UAV Fleets Simulation
+# UAV Swarm Simulation
 
 UAV-Simulator is a Python simulator for experimenting networks unmanned aerial vehicles. 
 It requires Python 3 or greater.
